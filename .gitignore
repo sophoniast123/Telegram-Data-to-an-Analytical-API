@@ -1,0 +1,6 @@
+.env
+telegram_scraper_session.session
+logs
+data/
+telegram_scraper.session
+__pycache__/
